@@ -16,7 +16,8 @@ def hopper
         }
      }
 
-nested_hash(programmer_hash)
+nested_hash(
+  programmer_hash.
 
 end
 
